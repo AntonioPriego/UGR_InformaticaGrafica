@@ -2,7 +2,7 @@
 Prácticas de Informática Gráfica(UGR) realizadas durante el curso 19/20
 
 # Proyecto
-* Lugar:Cafetería
+* Lugar: Cafetería
 * Modelo jerárquico: Máquina espresso
 
 ![alt text](https://raw.githubusercontent.com/AntonioPriego/UGR_InformaticaGrafica/main/Capturas/1.png)

@@ -23,5 +23,8 @@ Prácticas de Informática Gráfica(UGR) realizadas durante el curso 19/20
 ![alt text](https://raw.githubusercontent.com/AntonioPriego/UGR_InformaticaGrafica/main/Capturas/2.png)
 ![alt text](https://raw.githubusercontent.com/AntonioPriego/UGR_InformaticaGrafica/main/Capturas/3.png)
 
+## Manual de Usuario
+Ejecución automatizada -> make
+
 ## Licencia
 Este projecto está licenciado bajo [GNU General Public License v3.0](http://www.gnu.org/licenses/)
